@@ -1,0 +1,268 @@
+.image2 {
+  background-image: url("bg_header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 350px;
+}
+
+.image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-color: rgba(7, 7, 10, 0.959);
+  margin-left: 15%;
+}
+
+.deuxieme {
+  height: 215px;
+}
+.trois {
+  height: 215px;
+}
+.quatre {
+  height: 215px;
+}
+.barre {
+  background-color: #fec88a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.article-texte{
+    color: #fec88a;
+    margin-left: 24%;
+    
+}
+
+section{ 
+  background-color: #3c3c3c;
+}
+
+.btn {
+  background-color: #a1343d;
+  color: #f2f2f2;
+}
+
+
+.card-body {
+  background-color: #c2c57e;
+  
+}
+
+.card {
+padding: 0%;
+border: none;
+position: relative;
+}
+
+.article-texte2{
+    color: #fec88a;
+    margin-left: 7%;  
+}
+
+.article {
+  position: relative;
+ margin-left: 50px;
+margin-right: 50px;
+
+ 
+  
+  
+  
+}
+.article > img{
+  width: 100%;
+}
+.article > h2 {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  color: #fec88a;
+  border-top: 1px solid #fec88a;
+  border-bottom: 1px solid #fec88a;
+  padding: 0 6rem;
+  transform: translate(-40%, -50%);
+  text-transform: uppercase;
+}
+
+.h4{
+  color: #f2f2f2;
+}
+
+.container-fluid{
+  margin-left: 12.5%;
+}
+
+.h5{
+  align-items: center;
+}
+
+
+.barre{
+  background-color:#fec88a;
+  display: flex;
+  align-items: center;
+  
+  }
+  .texte-barre{
+    display: inline-flex;
+     font-size: 15px ;
+     margin-left:30px ; 
+     color: #a1343d;
+     align-items: center;
+  }
+  
+  .tacos-img {
+    position: relative;
+    
+  }
+  .cote-img{
+    position: relative;
+  }
+
+
+  .toque {
+    position: absolute;
+    bottom: -35px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+ 
+  form{
+  
+      margin-left: 30%;
+      
+  }
+  
+  button{
+      background-color: #a1343d;
+      border-color: #a1343d;
+      border: none;
+      padding: 0%;
+  }
+
+  
+  input{
+    background-color: #fec88a;
+    border-color: #a1343d;
+  }
+  
+  
+  body section div h4 img{
+    padding-left: 3;
+  }
+
+  
+.fin{
+  width: 100%;
+}
+  
+.barre-div{
+  background-color: #a1343d;
+  height: 2px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+    
+h2{
+    color: #fec88a;
+  }
+
+  .partie{
+    margin-left: 2%;
+  }
+ 
+
+.article3{
+  border-top: 1px solid #a1343d;
+}
+
+.article4{
+  border-top: 1px solid #a1343d;
+  border-bottom: 1px solid #a1343d;
+  margin-left: 155px;
+}
+.galerie{
+  display: flex;
+  justify-content: center;
+}
+.card-3{
+  position: relative;
+  margin-top: 20%;
+}
+
+.btn2{
+  position: absolute;
+  top: 90%;
+  left: 20%;
+  background-color: #a1343d;
+  padding-left: 50px;
+  padding-right: 50px;
+    background-color: #a1343d;
+    color: #f2f2f2;
+    border-radius: 50px;
+}
+
+.fin2{
+  position: relative;
+  border-top: 1px solid #fec88a;
+  border-bottom: 1px solid #fec88a;
+  border-left: 1px solid #fec88a;
+  border-right: 1px solid #fec88a;
+}
+.container {
+  display: inline-block;
+  position: relative;
+}
+
+.container .text {
+  background: rgba(0, 0, 0, 0);
+  z-index: 1;
+  position: absolute;
+  text-align: center;
+  font-family: Georgia;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  top: 40%;
+  color: rgb(0, 0, 0);
+  width: 70%;
+}
+.sujet{
+  color: #3c3c3c;
+}
+  .sujet1{
+    color: #3c3c3c;
+    font-size: small;
+    margin-top: 15px;
+  }
+  h1  {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #fec88a;
+  }
+  h3{
+    color: #fec88a;
+  }
+
+  .fin3{
+    
+    border-top: 1px solid #fec88a;
+    border-bottom: 1px solid #fec88a;
+    border-left: 1px solid #fec88a;
+    border-right: 1px solid #fec88a;
+  }
+footer{
+  background-image: url("Calque.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 350px;
+  
+}
+
+
